@@ -1,0 +1,26 @@
+body {
+    background-color: #7ca189;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
+
+.jumbotron {
+    text-align: center;
+    font-size: large;
+}
+
+#warning {
+    color: rgb(221, 14, 14);
+}
+
+#header {
+    background-color: #a19c61;
+}
+
+#articleContainer {
+    background-color: #defad7;
+}
+
+img {
+    width: 100%;
+    height: 300px;
+}
